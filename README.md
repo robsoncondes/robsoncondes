@@ -18,14 +18,9 @@ Gosto de aprender, resolver problemas e transformar ideias em páginas web funci
 
 ## 🛠️ Tecnologias e ferramentas
 
-- HTML5
-- CSS3
-- JavaScript
-- Git e GitHub
-- Visual Studio Code
-- Figma
-- Design responsivo
-- Flexbox e Media Queries
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,figma" alt="HTML, CSS, JavaScript, Git, GitHub, VS Code e Figma" />
+</p>
 
 ## 🚀 Projetos em destaque
 
