@@ -24,11 +24,15 @@ Gosto de aprender, resolver problemas e transformar ideias em páginas web funci
 
 ## 🚀 Projetos em destaque
 
-### 🛍️ [Loja Meteora](https://github.com/robsoncondes/meteora)
 
-Projeto de loja virtual desenvolvido para praticar HTML, CSS e JavaScript, com foco em responsividade e interatividade.
+### 🛍️ Loja Meteora
 
-**Tecnologias:** HTML5, CSS3 e JavaScript.
+Projeto de loja virtual desenvolvido com HTML5, CSS3 e JavaScript.
+
+🌐 [Visualizar projeto online](https://robsoncondes.github.io/meteora/)
+
+💻 [Ver código no GitHub](https://github.com/robsoncondes/meteora)
+  
 
 **Relógio Digital** — Aplicação que utiliza JavaScript para exibir o horário em tempo real.
 
